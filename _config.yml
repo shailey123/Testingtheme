@@ -22,8 +22,8 @@ title: My hateful github site
 email: shaileydash@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I feel i will never get this working!!!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Testingtheme" # the subpath of your site, e.g. /blog
+url: " https://shailey123.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  shailey123
 
