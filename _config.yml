@@ -1,3 +1,5 @@
 remote_theme: benbalter/retlab
 title: My hateful github site
 description: I feel i will never get this working!!!
+
+theme: jekyll-theme-minimal
